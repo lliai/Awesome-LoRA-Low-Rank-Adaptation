@@ -82,6 +82,8 @@ This repository provides a comprehensive survey of Low-Rank Adaptation (LoRA) me
 | 2024 | **LoRA Meets Dropout under a Unified Framework** |    arXiv   | [Link](https://arxiv.org/abs/2403.00812) |  - |
 | 2024 | **AdvLoRA: Adversarial Low-Rank Adaptation of Vision-Language Models** |    arXiv   | [Link](https://arxiv.org/pdf/2404.13425) |  - |
 | 2024 | **PeriodicLoRA: Breaking the Low-Rank Bottleneck in LoRA Optimization** |    arXiv   | [Link](https://arxiv.org/abs/2402.16141) |  - |
+| 2024 | LoRA Dropout as a Sparsity Regularizer for Overfitting Control | -     | -                                        | -    |
+| 2024 | LoRA-drop: Efficient LoRA Parameter Pruning based on Output Evaluation | -     | [Link](https://arxiv.org/abs/2402.07721) | -    |
 
 
 
@@ -120,7 +122,8 @@ This repository provides a comprehensive survey of Low-Rank Adaptation (LoRA) me
 | 2023 | **DyLoRA: Parameter-Efficient Tuning of Pre-trained Models using Dynamic Search-Free Low-Rank Adaptation** |    EACL   | [Link](https://arxiv.org/pdf/2404.13425) |  [Link](https://github.com/huawei-noah/KD-NLP/tree/main/DyLoRA) |
 | 2024 | **MoRA: High-Rank Updating for Parameter-Efficient Fine-Tuning** |    arXiv   | [Link](https://arxiv.org/pdf/2405.12130) |  [Link](https://github.com/kongds/MoRA) |
 | 2024 | **BiLoRA: A Bi-level Optimization Framework for Overfitting-Resilient Low-Rank Adaptation of Large Pre-trained Models** |    arXiv   | [Link](https://arxiv.org/abs/2403.13037) |  - |
-|
+| 2024 | Unlocking the Global Synergies in Low-Rank Adapters          | -     | [Link](https://arxiv.org/abs/2406.14956) | -    |
+| 2024 | ALoRA: Allocating Low-Rank Adaptation for Fine-tuning Large Language Model | -     | [Link](https://arxiv.org/abs/2403.16187) | -    |
 
 ## 3. LoRA Variants
 
@@ -139,8 +142,14 @@ This repository provides a comprehensive survey of Low-Rank Adaptation (LoRA) me
 | 2024 | Riemannian Preconditioned LoRA for Fine-Tuning Foundation Models | -                | [Link](https://arxiv.org/abs/2402.02347) | [Link](https://github.com/pilancilab/Riemannian_Preconditioned_LoRA) |
 | 2024 | Trans-LoRA: towards data-free Transferable Parameter Efficient Finetuning | -     | [Link](https://arxiv.org/abs/2405.17258) | -                                                            |
 | 2024 | VB-LoRA: Extreme Parameter Efficient Fine-Tuning with Vector Banks | -     | [Link](https://arxiv.org/abs/2405.15179) | -                                                            |
-
-
+| 2023 | Tied-LoRA: Enhancing parameter efficiency of LoRA with Weight Tying | -     | [Link](https://arxiv.org/abs/2311.09578) | -    |
+| 2024 | Towards Modular LLMs by Building and Reusing a Library of LoRAs | -     | [Link](https://arxiv.org/abs/2405.11157) | -    |
+| 2024 | HydraLoRA: An Asymmetric LoRA Architecture for Efficient Fine-Tuning | -     | -                                        | -    |
+| 2024 | SIBO: A Simple Booster for Parameter-Efficient Fine-Tuning   | -     | [Link](https://arxiv.org/abs/2402.11896) | -    |
+| 2024 | Asymmetry in Low-Rank Adapters of Foundation Models          | -     | [Link](https://arxiv.org/abs/2402.16842) | -    |
+| 2024 | PROLORA: Partial Rotation Empowers More Parameter-Efficient LoRA | -     | [Link](https://arxiv.org/abs/2402.16902) | -    |
+| 2024 | AFLoRA: Adaptive Freezing of Low Rank Adaptation in Parameter Efficient Fine-Tuning of Large Models | -     | [Link](https://arxiv.org/abs/2403.13269) | -    |
+| 2023 | Increasing model capacity for free: A simple strategy for parameter efficient fine-tuning | ICLR  | -                                        | -    |
 
 
 
@@ -166,6 +175,7 @@ This repository provides a comprehensive survey of Low-Rank Adaptation (LoRA) me
 |------|-------|-------|-------|------|
 | 2024 | RankAdaptor: Hierarchical Dynamic Low-Rank Adaptation for Structural Pruned LLMs | -                | [Link](https://arxiv.org/abs/2406.15734) | -                                                            |
 | 2024 | PRILoRA: Pruned and Rank-Increasing Low-Rank Adaptation      | EACL             | [Link](https://arxiv.org/abs/2401.11316) | -                                                            |
+| 2023 | Pruning meets low-rank parameter-efficient fine-tuning       | -     | [Link](https://arxiv.org/abs/2305.18403) | -    |
 
 
 ### 5.2 LoRA with Quantization
@@ -185,6 +195,7 @@ This repository provides a comprehensive survey of Low-Rank Adaptation (LoRA) me
 | Year | Title | Venue | Paper | Code |
 |------|-------|-------|-------|------|
 | 2024 | **LoNAS: Elastic Low-Rank Adapters for Efficient Large Language** |    COLING   | [Link](https://aclanthology.org/2024.lrec-main.940.pdf) |  [Link](https://github.com/IntelLabs/Hardware-Aware-Automated-Machine-Learning?tab=readme-ov-file) |
+| 2024 | Shears: Unstructured Sparsity with Neural Low-rank Adapter Search | -     | [Link](https://arxiv.org/abs/2404.10934) | -    |
 
 ### 5.4 Memory-efficient LoRA
 
@@ -212,6 +223,8 @@ This repository provides a comprehensive survey of Low-Rank Adaptation (LoRA) me
 | 2024 | LoRA-Ensemble: Efficient Uncertainty Modelling for Self-attention Networks | -     | [Link](https://arxiv.org/abs/2405.14438) | -                                                            |
 | 2024 | MeteoRA: Multiple-tasks Embedded LoRA for Large Language Models | -     | [Link](https://arxiv.org/abs/2405.13053) | -                                                            |
 | 2024 | MELoRA: Mini-Ensemble Low-Rank Adapters for Parameter-Efficient Fine-Tuning | ACL              | [Link](https://arxiv.org/abs/2402.17263) | -                                                            |
+| 2023 | LoraHub: Efficient cross-task generalization via dynamic lora composition | ICLR  | [Link](https://arxiv.org/abs/2307.13269) | -    |
+| 2024 | LoRA-Switch: Boosting the Efficiency of Dynamic LLM Adapters via System-Algorithm Co-design | -     | -                                        | -    |
 
 
 ### 6.2 Mixture-of-Experts (MOE) LoRA
