@@ -271,7 +271,7 @@ This repository provides a comprehensive survey of Low-Rank Adaptation (LoRA) me
 |------|-------|-------|-------|------|
 | 2024 | LaMDA: Large Model Fine-Tuning via Spectrally Decomposed Low-Dimensional Adaptation | -                | [Link](https://arxiv.org/abs/2406.12832) | -                                                            |
 | 2024 | MoVA: Adapting Mixture of Vision Experts to Multimodal Context | -                | [Link](https://arxiv.org/abs/2404.13046) | [Link](https://github.com/TempleX98/MoVA)                    |
-| 2024 | AdvLoRA: Adversarial Low-Rank Adaptation of Vision-Language Models | -     | [                                        |                                                              |
+| 2024 | AdvLoRA: Adversarial Low-Rank Adaptation of Vision-Language Models | -     | [Link](https://arxiv.org/abs/2404.13425)                                    |                                                              |
 
 
 ### 7.5 Federated Learning
