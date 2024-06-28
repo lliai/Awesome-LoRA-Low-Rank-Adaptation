@@ -209,6 +209,7 @@ This repository provides a comprehensive survey of Low-Rank Adaptation (LoRA) me
 ### 5.4  Knowledge Distillation LoRA
 
 | Year | Title | Venue | Paper | Code |
+|------|-------|-------|-------|------|
 | 2024 | PC-LoRA: Low-Rank Adaptation for Progressive Model Compression with Knowledge Distillation | -                | [Link](https://arxiv.org/abs/2406.09117) | -                                                            |
 
 
