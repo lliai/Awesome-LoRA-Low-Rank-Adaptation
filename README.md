@@ -1,13 +1,5 @@
-# Awesome-Low-Rank-Adaptation
 # A Comprehensive Survey on Low-Rank Adaptation
 
-[python-img]: https://img.shields.io/github/languages/top/lliai/Awesome-Low-Rank-Adaptation?color=lightgrey
-[stars-img]: https://img.shields.io/github/stars/lliai/Awesome-Low-Rank-Adaptation?color=yellow
-[stars-url]: https://github.com/lliai/Awesome-Low-Rank-Adaptation/stargazers
-[fork-img]: https://img.shields.io/github/forks/lliai/Awesome-Low-Rank-Adaptation?color=lightblue&label=fork
-[fork-url]: https://github.com/lliai/Awesome-Low-Rank-Adaptation/network/members
-[visitors-img]: https://badges.pufler.dev/visits/lliai/Awesome-Low-Rank-Adaptation
-[adgc-url]: https://github.com/lliai/Awesome-Low-Rank-Adaptation
 
 This repository provides a comprehensive survey of Low-Rank Adaptation (LoRA) methods and their applications. We welcome contributions to keep this list up-to-date. If you find this repository useful, please consider starring it.
 
