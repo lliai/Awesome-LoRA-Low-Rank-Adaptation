@@ -62,6 +62,7 @@ This repository provides a comprehensive survey of Low-Rank Adaptation (LoRA) me
 | 2024 | **LoRA Meets Dropout under a Unified Framework** |    arXiv   | [Link](https://arxiv.org/abs/2403.00812) |  - |
 | 2024 | **AdvLoRA: Adversarial Low-Rank Adaptation of Vision-Language Models** |    arXiv   | [Link](https://arxiv.org/pdf/2404.13425) |  - |
 | 2024 | **PeriodicLoRA: Breaking the Low-Rank Bottleneck in LoRA Optimization** |    arXiv   | [Link](https://arxiv.org/abs/2402.16141) |  - |
+
 ## 2. Dynamic Rank
 
 | Year | Title | Venue | Paper | Code |
@@ -74,9 +75,14 @@ This repository provides a comprehensive survey of Low-Rank Adaptation (LoRA) me
 
 | Year | Title | Venue | Paper | Code |
 |------|-------|-------|-------|------|
-| 2024 | **FLoRA: Low-Rank Core Space for N-dimension** |    arXiv   | [Link](https://arxiv.org/abs/2405.14739) |  [Link](https://github.com/SJTU-DeepVisionLab/FLoRA) |
 | 2023 | **Lora-fa: Memory-efficient low-rank adaptation for large language models fine-tuning** |    arXiv   | [Link](https://arxiv.org/abs/2308.03303) |  - |
+| 2023 | **VERA: VECTOR-BASED RANDOM MATRIX ADAPTATION** |    arXiv   | [Link](https://arxiv.org/pdf/2310.11454) |  - |
+| 2024 | **DoRA: Weight-Decomposed Low-Rank Adaptation** |   ICML   | [Link](https://arxiv.org/abs/2402.09353) |  [Link](https://github.com/NVlabs/DoRA) |
+| 2024 | **FLoRA: Low-Rank Core Space for N-dimension** |    arXiv   | [Link](https://arxiv.org/abs/2405.14739) |  [Link](https://github.com/SJTU-DeepVisionLab/FLoRA) |
+
 ## 4. Other Low-rank Decomposition
+
+
 
 | Year | Title | Venue | Paper | Code |
 |------|-------|-------|-------|------|
@@ -94,7 +100,7 @@ This repository provides a comprehensive survey of Low-Rank Adaptation (LoRA) me
 
 | Year | Title | Venue | Paper | Code |
 |------|-------|-------|-------|------|
-|      |       |       |       |      |
+|  2023    |    QA-LoRA: Quantization-Aware Low-Rank Adaptation of Large Language Models   |  ICLR      | [Link](https://arxiv.org/pdf/2309.14717) |  [Link](https://github.com/yuhuixu1993/qa-lora) |
 
 ### 5.3 LoRA with NAS
 
@@ -133,13 +139,16 @@ This repository provides a comprehensive survey of Low-Rank Adaptation (LoRA) me
 
 | Year | Title | Venue | Paper | Code |
 |------|-------|-------|-------|------|
-| 2024 | **Multi-LoRA Composition for Image Generation** |    arXiv   | [Link](https://arxiv.org/pdf/2402.16843) |  [Link](https://github.com/maszhongming/Multi-LoRA-Composition) |
-| 2023 | **Motion Style Transfer: Modular Low-Rank Adaptation for Deep Motion Forecasting** |    PMLR   | [Link](https://proceedings.mlr.press/v205/kothari23a/kothari23a.pdf) |  [Link](https://github.com/vita-epfl/motion-style-transfer) |
-### 7.2 Visual Generation
+|    2023  |  **MeLo: Low-rank Adaptation is Better than Finetuning for Medical Image**     |       |       |  [Link](https://github.com/JamesQFreeman/LoRA-ViT)     |
 
+
+
+### 7.2 Visual Generation
 | Year | Title | Venue | Paper | Code |
 |------|-------|-------|-------|------|
-|      |       |       |       |      |
+| 2024 | **Multi-LoRA Composition for Image Generation** |    arXiv   | [Link](https://arxiv.org/pdf/2402.16843) |  [Link](https://github.com/maszhongming/Multi-LoRA-Composition) |
+| 2023 | **Motion Style Transfer: Modular Low-Rank Adaptation for Deep Motion Forecasting** |    PMLR   | [Link](https://proceedings.mlr.press/v205/kothari23a/kothari23a.pdf) |  [Link](https://github.com/vita-epfl/motion-style-transfer) |
+
 
 ### 7.3 Language Understanding
 
