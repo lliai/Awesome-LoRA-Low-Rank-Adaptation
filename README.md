@@ -56,6 +56,9 @@ This repository provides a comprehensive survey of Low-Rank Adaptation (LoRA) me
 |------|-------|-------|-------|------|
 | 2024 | **LoRA+: Efficient Low Rank Adaptation of Large Models** |    arXiv   | [Link](https://arxiv.org/abs/2402.12354) |  [Link](https://github.com/nikhil-ghosh-berkeley/loraplus) |
 | 2023 | **The expressive power of low-rank adaptation** |    ICLR   | [Link](https://arxiv.org/abs/2310.17513) |  [Link](https://github.com/UW-Madison-Lee-Lab/Expressive_Power_of_LoRA) |
+
+
+
 ### 1.3 Optimization
 
 | Year | Title | Venue | Paper | Code |
@@ -94,11 +97,17 @@ This repository provides a comprehensive survey of Low-Rank Adaptation (LoRA) me
 | 2024 | MLAE: Masked LoRA Experts for Parameter-Efficient Fine-Tuning | -     | [Link](https://arxiv.org/abs/2405.18897) | -                                                            |
 
 ### 1.6  Bayesian
+
+| Year | Title | Venue | Paper | Code |
+|------|-------|-------|-------|------|
 | 2023 | **Bayesian Low-rank Adaptation for Large Language Models** |    ICLR   | [Link](https://arxiv.org/abs/2308.13111) |  [Link](https://github.com/MaximeRobeyns/bayesian_lora) |
 | 2024 | Bayesian-LoRA: LoRA based Parameter Efficient Fine-Tuning using Optimal Quantization levels and Rank Values trough Differentiable Bayesian Gates | -     | [Link](https://arxiv.org/abs/2406.13046) | -                                                            |
 | 2024 | BLoB: Bayesian Low-Rank Adaptation by Backpropagation for Large Language Models | -     | [Link](https://arxiv.org/abs/2406.11675) | -      
 
 ### 1.7 Robust
+
+| Year | Title | Venue | Paper | Code |
+|------|-------|-------|-------|------|
 | 2024 | ShareLoRA: Parameter Efficient and Robust Large Language Model Fine-tuning via Shared Low-Rank Adaptation | -                | [Link](https://arxiv.org/abs/2406.10785) | -                                                            |
 | 2024 | RoSA: Accurate Parameter-Efficient Fine-Tuning via Robust Adaptation | -                | [Link](https://arxiv.org/abs/2401.04679) | [Link](https://github.com/IST-DASLab/RoS)                    |
 
